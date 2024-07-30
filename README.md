@@ -8,7 +8,7 @@ Each notebook is named according to the figure it reproduces (e.g., Figure1.ipyn
 ---
 ## Data availability
 
-The data used in the jupyter notebooks are available in the University of Cambridge Data Repository: <Link>
+The data used in the jupyter notebooks are available in the University of Cambridge Data Repository: https://doi.org/10.17863/CAM.110898.
 
 ---
 ## Requirement
